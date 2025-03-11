@@ -88,7 +88,7 @@
 </div>
 
 ### **🎵 Fun Fact**
-<div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(90deg, #36D1DC, #5B86E5);">
+<div  style="padding: 20px; border-radius: 10; background: linear-gradient(90deg, #36D1DC, #5B86E5);">
   
 🎧 I love listening to **lo-fi & coding music**  
 🎭 I sometimes explore **digital art & graphic design**  
