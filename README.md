@@ -11,8 +11,8 @@
 
 ---
 
-## 🎯 **About Me**
-<div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(90deg, #6e45e2, #88d3ce);">
+## 🎯 About Me
+<div  style="padding: 20px; border-radius: 10px; background: linear-gradient(90deg, #6e45e2, #88d3ce);">
   
 🌟 Enthusiastic Frontend Developer & AI Learner  
 🌱 Currently learning React, JavaScript, and Python  
@@ -21,13 +21,13 @@
 🤝 Open to collaborations & contributing to open source  
 💡 Exploring LeetCode & Competitive Programming  
 📚 Always eager to learn new technologies & frameworks  
-📫 Reach me at bhashivarshney11@gmail.com  
+📫 Reach me at **bhashivarshney11@gmail.com**  
 
 </div>
 
 ---
 
-## 🚀 **Tech Stack**
+## 🚀 Tech Stack
 <div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(45deg, #232526, #414345);">
   
 <p align="center">
@@ -38,15 +38,20 @@
 
 ---
 
-## 📊 **LeetCode & CodeChef Stats**
+## 📊 Competitive Programming Stats
+
+### **🔥 LeetCode Stats**
 <div align="center" style="padding: 20px; border-radius: 10px; background: #1E1E1E;">
   
-### **LeetCode Stats**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/bhashivarshney?theme=dark&font=Poppins&ext=heatmap" />
 </p>
 
-### **CodeChef Stats**
+</div>
+
+### **🏆 CodeChef Stats**
+<div  style="padding: 20px; border-radius: 10px; background: #1E1E1E;">
+  
 <p align="center">
   <img src="https://cp-logo.vercel.app/codechef/bhashi1?logo=true&site=codechef" />
 </p>
@@ -55,8 +60,8 @@
 
 ---
 
-## 🌍 **Connect With Me**
-<div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(90deg, #FF416C, #FF4B2B);">
+## 🌍 Connect With Me
+<div  style="padding: 20px; border-radius: 10px; background: linear-gradient(90deg, #FF416C, #FF4B2B);">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhashi-varshney-a90b71317/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -71,9 +76,10 @@
 
 ---
 
-## 🎨 **Extras & Fun**
-### **🖌️ UI/UX Design Interests**
-<div align="center" style="padding: 20px; border-radius: 10px; background: linear-gradient(120deg, #667eea, #764ba2);">
+## 🎨 Extras & Fun
+
+### **🎨 UI/UX Design Interests**
+<div  style="padding: 20px; border-radius: 10px; background: linear-gradient(120deg, #667eea, #764ba2);">
   
 🎨 Passionate about **modern UI trends & aesthetic designs**  
 💡 Love creating **sleek, minimal, and responsive designs**  
