@@ -6,7 +6,7 @@
 
 <h3 align="center">
   🚀 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Aspiring+Developer+|+Learning+Frontend+%26+AI;Exploring+Open+Source+%26+AI;Passionate+About+Code+%26+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines= Aspiring+Developer+|+Learning+Frontend+%26+AI;Exploring+Open+Source+%26+AI;Passionate+About+Code+%26+Innovation" />
 </h3>
 
 ---
