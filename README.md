@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hye, I'm Bhashi Varshney</h1>
+<h1 align="center">👋 Hye! I'm Bhashi Varshney</h1>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BhashiVarshney11.BhashiVarshney11" alt="profile views"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BhashiVarshney/BhashiVarshney/main/banner.gif" width="100%"/>
@@ -6,7 +10,7 @@
 
 <h3 align="center">
   🚀 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines= Aspiring+Developer+|+Learning+Frontend+%26+AI;Exploring+Open+Source+%26+AI;Passionate+About+Code+%26+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Aspiring+Developer+|+Learning+Frontend+%26+AI;Exploring+Open+Source+%26+AI;Passionate+About+Code+%26+Innovation" />
 </h3>
 
 ---
@@ -92,7 +96,6 @@
   
 🎧 I love listening to **lo-fi & coding music**  
 🎭 I sometimes explore **digital art & graphic design**  
-
 
 </div>
 
