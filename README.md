@@ -1,4 +1,4 @@
-<h1>👋 Hye, I'm Bhashi Varshney</h1>
+<h1 align="Center">👋 Hye, I'm Bhashi Varshney</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BhashiVarshney/BhashiVarshney/main/banner.gif" width="100%"/>
